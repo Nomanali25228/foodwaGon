@@ -1,0 +1,135 @@
+
+.work {
+    border: solid 1px rgb(255, 247, 238);
+  
+    height: 340px;
+    margin-top: 70px;
+    background-color: rgb(255, 247, 238);
+  
+  
+  }
+  
+  .howcolor {
+    color: rgba(241, 114, 40, 1);
+  
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  
+  .flex {
+    display: flex;
+  }
+  
+  
+  .mano {
+    margin-left: 150px;
+    margin-top: 20px;
+    display: flex;
+  }
+  
+  .loc {
+    position: absolute;
+    bottom: 1px;
+    top: 1135px;
+    margin-left: 22px;
+    font-size: 15px;
+  }
+  
+  .marker {
+    height: 150px;
+  
+  
+  }
+  
+  .choose {
+    padding-right: 980px;
+    position: absolute;
+    right: 10px;
+    left: 125px;
+    bottom: 1px;
+    top: 1157px;
+    font-size: 15px;
+  }
+  
+  .will {
+  
+    position: absolute;
+    right: 1055px;
+    margin-top: 178px;
+    font-size: 15px;
+  }
+  
+  
+  .png {
+  
+    margin-left: 170px;
+    margin-top: 15px;
+  
+  
+  }
+  
+  .ord {
+  
+    height: 150px;
+  }
+  
+  .order {
+    font-size: 15px;
+    position: absolute;
+    bottom: 1px;
+    top: 1130px;
+    margin-left: 20px;
+  }
+  
+  .check {
+    padding-right: 680px;
+  
+    position: absolute;
+    right: 20px;
+    left: 420px;
+    bottom: 1px;
+    top: 1157px;
+    font-size: 15px;
+  
+  }
+  
+  .checks {
+  
+    padding-right: 350px;
+  
+    position: absolute;
+    right: 20px;
+    left: 720px;
+    bottom: 1px;
+    top: 1157px;
+    font-size: 15px;
+  
+  
+  }
+  
+  .yanks {
+    margin-left: 39px;
+  }
+
+  .meal {
+
+    font-size: 15px;
+    position: absolute;
+    bottom: 1px;
+    top: 1130px;
+    margin-left: 35px;
+  }
+  
+  .made {
+    padding-right: 95px;
+  
+    position: absolute;
+    right: 5px;
+    left: 1025px;
+    bottom: 1px;
+    top: 1157px;
+    font-size: 15px;
+  }
+  
+    

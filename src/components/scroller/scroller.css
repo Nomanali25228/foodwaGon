@@ -1,0 +1,184 @@
+
+.paper {
+
+    border: orange solid 1px;
+    background-color: rgb(241, 186, 4);
+    width: 1341px;
+    height: 470px;
+  
+  }
+  
+  .inside {
+    margin-left: 150px;
+    margin-top: 100px;
+  }
+  
+  .color {
+    color: white;
+    font-size: 63px;
+  }
+  
+  .ptag {
+    color: rgba(80, 79, 79, 1);
+  
+  }
+  
+  .secdorder {
+    border-radius: 10px;
+    border: solid 1px white;
+    background-color: white;
+    height: 140px;
+    width: 600px;
+  
+  
+  }
+  
+  
+  .tredorder {
+    border-radius: 5px;
+    border: solid 1pxrgb(236, 190, 173);
+    background-color: rgba(241, 114, 40, 0.2);
+  
+    height: 35px;
+    width: 145px;
+    margin-top: 0px;
+    margin-left: 15px;
+  
+  }
+  
+  .bike {
+  
+    margin-left: 25px;
+  
+  
+  }
+  
+  .del {
+  
+    font-size: 15px;
+    position: absolute;
+    top: 300px;
+    margin-left: 60px;
+    color: rgba(241, 114, 40, 1);
+  
+  }
+  
+  .bag {
+    display: flex;
+    height: 32px;
+    margin-top: -12px;
+    margin-left: 20px;
+  
+  
+  
+  
+  }
+  
+  .ex {
+    display: flex;
+  }
+  
+  .smal {
+  
+    margin-left: 10px;
+    margin-top: 16px;
+    height: 22px;
+  
+  }
+  
+  .pickup {
+  
+    margin-left: 10px;
+    font-size: 16px;
+    color: rgba(117, 117, 117, 1);
+    margin-top: 16px;
+  
+  }
+  
+  .icon {
+    border: none;
+    background-color: rgba(245, 245, 245, 1);
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    position: absolute;
+    right: 1138px;
+    margin-top: 42px;
+  }
+  
+  .icons {
+    position: absolute;
+    right: 10px;
+    height: 20px;
+    bottom: 8px;
+  
+  }
+  
+  
+  
+  .hrs {
+    color: rgba(238, 238, 238, 1);
+    border: solid 1px;
+    margin-top: 25px;
+  }
+  
+  .holder {
+    border: rgba(245, 245, 245, 1);
+    outline: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 360px;
+    position: absolute;
+    right: 783px;
+    margin-top: 15px;
+    background-color: rgba(245, 245, 245, 1);
+  
+  
+  }
+  
+  .holder:hover {
+    outline: none;
+  
+  
+  }
+  
+  .buton {
+    border: rgb(221, 105, 63);
+    height: 40px;
+    width: 130px;
+    background-color: rgb(221, 105, 63);
+  
+    margin-left: 435px;
+    margin-top: 15px;
+    border-radius: 5px;
+  
+  
+  }
+  
+  .search {
+    position: absolute;
+    right: 732px;
+    bottom: 232px;
+  
+  
+  }
+  
+  .find {
+    position: absolute;
+    bottom: 232px;
+    margin-left: 38px;
+    font-size: 15px;
+    color: white;
+  
+  
+  }
+  
+  .pizza {
+    height: 400px;
+    position: absolute;
+    left: 730px;
+    bottom: 101px;
+  
+  }
+  
+  

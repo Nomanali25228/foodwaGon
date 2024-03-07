@@ -1,0 +1,41 @@
+.im {
+    background-image: url(../../assest/Image\ \(3\).png);
+    height: 285px;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+.deals {
+    font-size: 30px;
+    color: white;
+    padding-right: 410px;
+    margin-left: 530px;
+    padding-top: 60px;
+}
+.brdeals {
+    margin-left: 90px;
+}
+.ordersaes {
+    border: none;
+    height: 40px;
+    width: 155px;
+    background-color: rgb(255, 94, 0);
+    border-radius: 8px;
+    margin-top: 70px;
+    display: flex;
+    margin-left: 640px;
+}
+.over45aes {
+    margin-top: 9px;
+    color: white;
+    font-size: 11px;
+    display: flex;
+    margin-left: 13px;
+    margin-top: 13px;
+}
+.arooesaes {
+    margin-left: 7px;
+    margin-top: 13px;
+}
+

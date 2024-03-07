@@ -1,0 +1,142 @@
+.black {
+    margin-top: 0px;
+    border: none;
+    height: 710px;
+    width: 100%;
+    background-color: rgba(33, 33, 33, 1);
+}
+.htagptag {
+    display: flex;
+    margin-top: 0px;
+    justify-content: space-around;
+}
+    .htagptages {
+    display: flex;
+    margin-top: 0px;
+    justify-content: space-around;
+    margin-left: 50px;
+}
+.ourspan {
+    margin-top: 0px;
+    padding-top: 45px;
+    justify-content: center;
+    color: white;
+    margin-left: 30px;
+}
+.ourspans {
+    margin-top: 0px;
+    padding-top: 45px;
+    justify-content: center;
+    color: white;
+    margin-left: 50px;
+}
+.ourspa {
+    margin-top: 0px;
+    padding-top: 45px;
+    justify-content: center;
+    color: white;
+    margin-left: 110px;
+  }
+.ours {
+    display: flex;
+    margin-top: 0px;
+    padding-top: 45px;
+    margin-left: 85px;
+    color: white;
+}
+.oures {
+    display: flex;
+    margin-left: 10px;
+    margin-left: 60px;
+}
+.allp {
+    margin-top: 20px;
+    color: white;
+} 
+.graylines {
+    width: 87%;
+    margin-left: 87px;
+    margin-top: 70px;
+    border-top: 2px solid rgba(66, 66, 66, 1) 2px solid;
+}  
+.boooooo {
+    color: rgb(255, 174, 0);
+    text-decoration: none;
+    font-size: 15px;
+}
+.parts2 {
+    display: flex;
+    margin-left: 50px;
+}
+.company1 {
+    color: white;
+    margin-left: 50px;
+    margin-top: 30px;  
+}  
+.company2 {
+    color: white;
+    margin-left: 50px;
+}
+.lastparts {
+    margin-left: 300px;
+    margin-top: 30px;
+    color: rgb(180, 177, 177);
+    font-size: 20px;
+}
+.imgpart {
+    padding-top: 10px;
+    display: flex;  
+}
+.im11 {
+    margin-left: 15px;
+}
+.partp01 {
+    margin-top: 25px;
+    color: rgb(180, 177, 177);
+    font-size: 19px;
+  }
+.partinput {
+    width: 270px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgba(66, 66, 66, 1);
+    padding-left: 15px;
+}  
+.partbutton {  
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ca6512;
+}  
+.subibe {
+    margin-top: 0px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 15px;
+}
+.busyarr {
+    margin-left: 640px;
+    margin-top: 0pxjew2;
+}  
+.firstinputs::placeholder {
+    padding-left: 15px;
+}
+.yaaring {
+    display: flex;
+}
+.spaning21 {
+    color: white;
+    margin-left: 87px;
+    margin-top: 0px;
+}
+.spaning012 {
+    color: white;
+    font-size: 22px;
+    margin-top: 0px;
+  
+}

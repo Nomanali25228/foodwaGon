@@ -1,0 +1,38 @@
+.miandiv {
+  display: flex;
+}
+
+.car {
+  margin-left: 150px;
+}
+
+.nodal {
+
+  height: 190px;
+  width: 240px;
+  margin-left: 10px;
+
+
+}
+
+.vage {
+  margin-left: 12px;
+  font-size: 15px;
+}
+
+.days {
+  border: solid 1px rgba(241, 114, 40, 0.2);
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: rgba(241, 114, 40, 0.2);
+
+}
+
+.size {
+  font-size: 15px;
+  color: rgba(241, 114, 40, 1);
+  margin-left: 15px;
+  margin-top: 4px;
+
+}

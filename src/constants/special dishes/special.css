@@ -1,0 +1,76 @@
+.patloo {
+    display: flex;
+}
+
+.rightimage {
+    margin-top: 50px;
+    border: none;
+    height: 320px;
+    width: 385px;
+    margin-left: 220px;
+    box-shadow: 0px 27px 82px 0px rgba(124, 124, 124, 0.28);
+}
+
+.best {
+    position: relative;
+    top: 35px;
+    padding-right: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.bestes {
+    position: relative;
+    top: 35px;
+    padding-right: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.Crispy {
+    color: rgb(255, 174, 0);
+    font-size: 30px;
+}
+
+.Enjoy {
+    margin-top: 65px;
+    margin-left: 50px;
+    padding-right: 20px;
+}
+
+.orders {
+    border: none;
+    height: 40px;
+    width: 291px;
+    background-color: rgb(255, 187, 0);
+    border-radius: 8px;
+    margin-top: 50px;
+    display: flex;
+}
+
+.Right01 {
+    height: 320px;
+    width: 550px;
+    margin-top: 50px;
+}
+
+.over45 {
+    margin-top: 9px;
+    color: white;
+    font-size: 19px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.arooes {
+    margin-left: 15px;
+    margin-top: 14px;
+}
+
+.Right0124 {
+    height: 320px;
+    width: 550px;
+    margin-top: 50px;
+    position: relative;
+    left: 220px;
+}
